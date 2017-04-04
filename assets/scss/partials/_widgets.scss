@@ -68,8 +68,9 @@ Widgets
 --------------------------------------------- */
 
 .home-gallery {
-	background: $white;
-	padding: 40px 0 20px;
+	background: $light-gray;
+	padding: 0px 0 0px;
+	margin: 0;
 }
 
 .home-gallery .fa {
@@ -77,7 +78,7 @@ Widgets
 }
 
 .home-gallery .widget {
-	padding: 0 20px;
+	padding: 0 0px;
 }
 
 .home-gallery-1,
@@ -86,6 +87,7 @@ Widgets
 .home-gallery-4 {
 	text-align: center;
 	width: 100%;
+	background-color: $light-gray;
 
 	@include media($small-screen-up) {
 		float: left;
@@ -94,9 +96,8 @@ Widgets
 
 	@include media($medium-screen-up) {
 		float: left;
-		width: 25%;
+		width: 50%;
 	}
-
 }
 
 /* Call to Action
