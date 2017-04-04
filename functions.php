@@ -1,9 +1,9 @@
 <?php
 /**
- * Utility Pro.
+ * Creative Stitches Pro.
  *
- * @package      Utility_Pro
- * @link         http://www.carriedils.com/utility-pro
+ * @package      Creative Stitches Pro
+ * @link         https://jolleydigital.com
  * @author       Carrie Dils
  * @copyright    Copyright (c) 2015, Carrie Dils
  * @license      GPL-2.0+
@@ -30,7 +30,7 @@ add_action( 'genesis_setup', 'utility_pro_setup', 15 );
  */
 function utility_pro_setup() {
 
-	define( 'CHILD_THEME_NAME', 'utility-pro' );
+	define( 'CHILD_THEME_NAME', 'creative-stitches-pro' );
 	define( 'CHILD_THEME_URL', 'https://store.carriedils.com/utility-pro' );
 	define( 'CHILD_THEME_VERSION', '1.0.0' );
 
