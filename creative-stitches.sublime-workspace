@@ -1,0 +1,1106 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"paddin",
+				"padding-top\t(_navigation.scss)"
+			],
+			[
+				"page",
+				"page-grow"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"footer-",
+				"footer-contact"
+			],
+			[
+				"utility_pro_add_home",
+				"utility_pro_add_home_services"
+			],
+			[
+				"home",
+				"home-testimonials"
+			],
+			[
+				"utility-home-",
+				"utility-home-testimonials"
+			],
+			[
+				"widget",
+				"widgettitle"
+			],
+			[
+				"can",
+				"can-do"
+			],
+			[
+				"why",
+				"why-me\t(functions.php)"
+			],
+			[
+				"utility-can",
+				"utility-can-do-1"
+			],
+			[
+				"hard",
+				"hard_website"
+			],
+			[
+				"utility-sec",
+				"utility-section-1"
+			],
+			[
+				"utility_pro_add_section",
+				"utility_pro_add_section_1"
+			],
+			[
+				"section",
+				"section-1"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"song",
+				"songName"
+			],
+			[
+				"play",
+				"playlistArray"
+			],
+			[
+				"text",
+				"textInput"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"mediu",
+				"media($medium-screen-up\t(_header.scss)"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"full",
+				"full-width"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"stree",
+				"street"
+			],
+			[
+				"street",
+				"streetNumber"
+			],
+			[
+				"stre",
+				"street"
+			],
+			[
+				"final",
+				"finalPrice"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"utility-h",
+				"utility-home-testimonials"
+			],
+			[
+				"utility_pro_add_h",
+				"utility_pro_add_home_testimonials"
+			],
+			[
+				"Wi",
+				"weight"
+			],
+			[
+				"sub",
+				"subtract"
+			],
+			[
+				"curre",
+				"current_file"
+			],
+			[
+				"print_a",
+				"print_a_line"
+			],
+			[
+				"curr",
+				"current_file"
+			],
+			[
+				"print",
+				"print_a_line"
+			],
+			[
+				"current",
+				"current_line"
+			],
+			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"amount",
+				"amount_of_cheese"
+			],
+			[
+				"chee",
+				"cheese_and_crackers"
+			],
+			[
+				"che",
+				"cheese_and_cracker"
+			],
+			[
+				"print_",
+				"print_two"
+			],
+			[
+				"out",
+				"out_file"
+			],
+			[
+				"line",
+				"line3"
+			],
+			[
+				"file",
+				"file_again"
+			],
+			[
+				"fie",
+				"filename"
+			],
+			[
+				"txt",
+				"txt_again"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"joll",
+				"jolleydigital"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"utility",
+				"utility-pro"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"al",
+				"alignright"
+			],
+			[
+				"before",
+				"before-entry"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"scroll",
+				"scroll-down"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"utili",
+				"utility-bar-right"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"3-column",
+				"3-column-footer"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"h",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 133.0,
+		"last_filter": "browse se",
+		"selected_items":
+		[
+			[
+				"browse se",
+				"SFTP: Browse Server…"
+			],
+			[
+				"browse s",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"brose",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"colors",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: Disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"git gui",
+				"Git: Gui"
+			],
+			[
+				"package contro: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro: list ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"package control: install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"sam",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"b",
+				"SFTP: Browse Server…"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"selection",
+				"Rot13 Selection"
+			],
+			[
+				"package control: enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"packing",
+				"Package Control: Install Package"
+			],
+			[
+				" browse",
+				"SFTP: Browse Server…"
+			],
+			[
+				" br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brwose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse ser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"cancel",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: html"
+			]
+		],
+		"width": 550.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/samjolley/Downloads/Ftp main@thecolonanddigestivediseasecenter.com.xml",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1490976237/Jolley Digital/org-jolley-digital-llc/rivers-targets/wp-content/themes/rivers-targets-pro/functions.php",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1490883586/Jolley Digital/org-jolley-digital-llc/jolley-digital-1/wp-content/themes/jd-pro/functions.php",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/Jolley Digital",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/functions.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/checkout/terms.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/checkout/thankyou.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/css/front-page.css",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/checkout/checkout-timeline.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/checkout/form-checkout.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/cart/cart.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/cart/cart-empty.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/style.css",
+		"/Users/samjolley/drive/work/RSS/rivers-targets/website-backups/rivers-coming-soon.html",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/myaccount/my-address.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/plugins/woocommerce/templates/checkout/payment-method.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/plugins/woocommerce/templates/checkout/payment.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/plugins/woocommerce/templates/checkout/terms.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/plugins/woocommerce/templates/checkout/form-billing.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/checkout/form-shipping.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/plugins/woocommerce/templates/cart/cart-totals.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/checkout/cart-errors.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/plugins/woocommerce/templates/cart/cart-empty.php",
+		"/Users/samjolley/drive/work/jd/resources/WordPress/Themes/Genesis Child Theme Downloads",
+		"/Users/samjolley/Desktop/retro.css",
+		"/Users/samjolley/Desktop/oxy.css",
+		"/Users/samjolley/drive/work/jd/resources/WordPress/Themes/smart-passive-income-pro/css/front-page.css",
+		"/Users/samjolley/drive/work/jd/resources/WordPress/Themes/smart-passive-income-pro/style.css",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/front-page.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/languages/smart-passive-income-pro.pot",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/lib/customize.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/lib/customizer-scripts.js",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/lib/output.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/lib/theme-defaults.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/page_landing.php",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/README.txt",
+		"/Users/samjolley/Desktop/brobasket.css",
+		"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/xml/smart-passive-income-pro.xml",
+		"/Users/samjolley/drive/work/jd/resources/WordPress/Themes/readme.txt",
+		"/Applications/MAMP/bin/SQLiteManager/jscalendar/calendar.js",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1489706953/Jolley Digital/org-jolley-digital-llc/jolley-digital/wp-content/themes/jd-pro/style.css",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1489753985/Jolley Digital/org-jolley-digital-llc/jolley-digital/wp-content/themes/jd-pro/functions.php",
+		"/Users/samjolley/Downloads/Showcase-Devices-Presentation-PIXEDEN 2/Text Font.txt",
+		"/Users/samjolley/Downloads/Web-Showcase-Project-Presentation-PIXEDEN/Text Font.txt",
+		"/Users/samjolley/Downloads/boostability-seo-page.html",
+		"/Users/samjolley/Downloads/boostability-style.css",
+		"/Users/samjolley/Downloads/seo-features.html",
+		"/Users/samjolley/Downloads/customer.html",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/assets/scss/partials/_variables.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/assets/scss/partials/_content-area.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/assets/scss/partials/_widgets.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/assets/scss/partials/_header.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/assets/scss/partials/_navigation.scss",
+		"/Users/samjolley/Downloads/optimized_contents/css/style.css",
+		"/Users/samjolley/Desktop/spi.css",
+		"/Users/samjolley/Desktop/resources.css",
+		"/Users/samjolley/Desktop/jd-resources.html",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/functions.php",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/assets/scss/partials/_defaults.scss",
+		"/Users/samjolley/Desktop/jd-coming-soon.html",
+		"/Users/samjolley/Downloads/Mybook Pro Folded Business Card Template/HELP - Read me.txt",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/includes/widget-areas.php",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/front-page.php",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/includes/google-fonts.php",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/assets/scss/partials/_common-classes.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/assets/scss/partials/_site-footer.scss",
+		"/Users/samjolley/.bash_profile",
+		"/Users/samjolley/Downloads/SuperSU-v2.76-S7QC/root.bat",
+		"/Users/samjolley/Desktop/Android/mac-root-commands.txt",
+		"/Users/samjolley/Desktop/vintage-logo-options/5 Vintage Labels Insignias Vol.1/Fonts.txt",
+		"/Users/samjolley/Desktop/Retro-badges-collection/Fonts.txt",
+		"/Users/samjolley/Desktop/vintage-logo-options/4 Vintage Logo Badges/License.txt",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/assets/scss/partials/_layout.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-config.php",
+		"/Users/samjolley/Desktop/about-widget.html",
+		"/Users/samjolley/Desktop/erickson-about-widget.html",
+		"/Users/samjolley/Desktop/page-contact.html",
+		"/Users/samjolley/Desktop/about.html",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/js/responsive-menu.js",
+		"/Users/samjolley/drive/work/learn/skillcrush/WordPress Bootcamp/exercises/206/unplugged/unplugged.sublime-project",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/jd-pro/js/backstretch.args.js",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/jd-dev.sublime-project",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/functions.php",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/front-page.php",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/includes/widget-areas.php",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/assets/scss/partials/_widgets.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/assets/scss/partials/_variables.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/assets/scss/style.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/assets/scss/partials/_header.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/includes/google-fonts.php",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/assets/scss/partials/_defaults.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/assets/scss/partials/_navigation.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/assets/scss/partials/_layout.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/assets/scss/partials/_content-area.scss",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/assets/scss/partials/_plugins.scss",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/Users/samjolley/Documents/websites/jd/app/public/wp-content/themes/utility-pro/includes/footer-nav.php",
+		"/Users/samjolley/Desktop/jared-atchison-stylesheet.css",
+		"/Users/samjolley/Desktop/desktop/README.txt",
+		"/Users/samjolley/Desktop/cro-techniques-landing-page",
+		"/Users/samjolley/Desktop/jd-homepage",
+		"/Users/samjolley/Downloads/up-blueprint.com/database.sql",
+		"/Users/samjolley/Downloads/Sketch 3.8.1 cracked/Sketch 3.8.1/Read Me.txt",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/Rivers Fab and Welding",
+		"/Users/samjolley/Documents/websites/rwd-rogue/css/main.css",
+		"/Users/samjolley/Documents/websites/rwd-rogue/index.html",
+		"/Users/samjolley/Downloads/RWD-challenge-code-rogue-pickings-starter-module/css/main.css",
+		"/Users/samjolley/Documents/websites/RWD-challenge-code-rogue-pickings-starter-module/index.html",
+		"/Users/samjolley/Documents/websites/RWD-challenge-code-rogue-pickings-starter-module/css/main.css",
+		"/Users/samjolley/Desktop/body.css",
+		"/Users/samjolley/Downloads/Self-Host-Exercise/abril.html",
+		"/Users/samjolley/drive/work/learn/skillcrush/WordPress Bootcamp/exercises/206/abril/css/style.css",
+		"/Users/samjolley/drive/work/learn/skillcrush/WordPress Bootcamp/exercises/206/03a-starter-code/index.html",
+		"/Users/samjolley/drive/work/learn/skillcrush/WordPress Bootcamp/exercises/206/v03.01-challenge/03-01a-starter/css/style.css",
+		"/Users/samjolley/drive/work/learn/skillcrush/WordPress Bootcamp/exercises/206/v03.01-challenge/03-01a-starter/index.html",
+		"/Users/samjolley/Downloads/v03.02b-challenge-solution/css/style.css",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1486045843/SamJolley.com/public_html/portfoliodev/index.html",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1486045792/SamJolley.com/public_html/portfoliodev/css/main.css",
+		"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1485959718/Infanger Insurance FTP/public_html/wp-content/themes/enterprise-pro/style.css",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/samjolley/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/samjolley/drive/work/learn/skillcrush/WordPress Bootcamp/exercises/206/v02.04-static-to-fluid-challenge/02-04a-starter-code/index.html",
+		"/Users/samjolley/drive/work/learn/skillcrush/WordPress Bootcamp/exercises/206/v02.03-static-to-fluid-challenge/02-03a-starter-files/css/style.css",
+		"/Users/samjolley/drive/work/learn/skillcrush/WordPress Bootcamp/exercises/206/v02.03-static-to-fluid-challenge/02-03a-starter-files/index.html",
+		"/Users/samjolley/drive/work/learn/skillcrush/WordPress Bootcamp/exercises/206/v02.04-static-to-fluid-challenge/02-04a-starter-code/css/style.css",
+		"/Users/samjolley/drive/work/learn/head-first/html5/chapter-3/playlist-manager/playlist-store.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/plugins/woocommerce/templates/cart",
+			"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/plugins/woocommerce/cart/",
+			"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/plugins/woocommerce/cart",
+			"/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro/woocommerce/checkout",
+			"<current file>,/Users/samjolley/Documents/websites/riverstargets/app/public/wp-content/themes/rivers-targets-pro",
+			"<current file>",
+			"<current file>,/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials",
+			"<current file>",
+			"<current file>,/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials",
+			"<current file>",
+			"<open files>",
+			"<current file>",
+			"/Users/samjolley/Documents/websites/rfw/app/public/wp-content/themes/rfw-pro/assets/scss/partials",
+			"<current file>",
+			"<open files>",
+			"/Users/samjolley/Documents/websites/md/app/public/wp-content/themes/md-pro/assets/scss/partials",
+			"<current file>,<open files>",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"notes",
+			"wcms",
+			"next",
+			"proceed",
+			"checkout",
+			"proceed",
+			"notes",
+			"shop",
+			".content {",
+			"header",
+			"li:hover a",
+			".footer-banner",
+			".site-container a.button",
+			"button",
+			"a.button",
+			".site-header",
+			"Smart Passive Income",
+			"smart-passive-income-pro",
+			".woocommerce",
+			".woo",
+			"widgets",
+			".page",
+			"#customer",
+			"boostability",
+			".std",
+			"info",
+			"std-resources",
+			"footer",
+			".nav-primary",
+			".archive-",
+			"action",
+			"footer",
+			"logos",
+			"footer",
+			"image size",
+			"featured",
+			".widget-title",
+			".widgettitle",
+			".ja-",
+			"sidebar",
+			"  .page-about .blurb .circle,\n  .page-about .blurb.even .circle {\n    margin: 0 auto 20px auto;\n    float: none;\n    width: 160px;\n    height: 160px;\n    font-size: 60px;\n    line-height: 180px;\n  }",
+			"@include",
+			"major-second",
+			"serif",
+			"heading-font-family",
+			"h1",
+			"fifth",
+			"column",
+			".one-fifth",
+			"fourth",
+			".nav-primary",
+			".footer-cta .button",
+			"button-l",
+			"hover",
+			"$red",
+			"red",
+			".home-services .fa",
+			".site-footer",
+			"footer",
+			"add support for",
+			"footer",
+			"p {",
+			"hr",
+			".archive",
+			".entry",
+			"entry",
+			"current-menu-item",
+			"current",
+			"orange",
+			"footer-contact",
+			"Can",
+			"gallery",
+			"button.menu-toggle",
+			"buttontext",
+			"menu",
+			"primary",
+			"unregister",
+			"header",
+			".home-wh",
+			".hard-website",
+			"backs",
+			"url",
+			"logos",
+			"contact page",
+			"contact ",
+			"jq",
+			"utility",
+			"logos",
+			"fa",
+			"can",
+			"site-title",
+			"can-do",
+			"button",
+			"url",
+			"site-header",
+			"#",
+			"why-me",
+			"why_me",
+			"why-me",
+			".home-why",
+			"why-me",
+			"can",
+			"works",
+			"why",
+			"works",
+			"home-works",
+			"why-me",
+			"structural",
+			"wrap",
+			"h3-font-size",
+			"title",
+			"hard",
+			"wrap",
+			"gallery",
+			"site-inner",
+			"footer",
+			"gallery",
+			".site-inner",
+			"awesome",
+			".contact-page",
+			"contact",
+			"gform",
+			".contact",
+			"contact",
+			".footer-contact",
+			"small-screen",
+			"small"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Rivers Targets",
+			"rivers-targets-pro",
+			"Jolley Digital",
+			".jd",
+			"resources-info",
+			"jd",
+			".",
+			"sixth",
+			"fifth",
+			"home-why",
+			"home_why",
+			"home-why",
+			".why-me",
+			"",
+			".contact-form",
+			".contact",
+			"font-family: 'Montserrat', sans-serif;",
+			"rfw",
+			"half-width",
+			"&amp;",
+			"work",
+			"third-width",
+			"",
+			"\"",
+			"advisory-header",
+			"advisory-section",
+			"closing",
+			"advisory",
+			"alert",
+			"",
+			"&mdash;",
+			"dark-grey",
+			"black",
+			"taupe",
+			"plum",
+			"red",
+			".utility-pro-winter-tones",
+			"$light-primary",
+			"accent",
+			"border: 1px solid $divider;",
+			"primary",
+			"",
+			"MD",
+			"utility-pro",
+			"",
+			"$primary-color",
+			"primary-color",
+			"utility-pro",
+			"cs.dev",
+			".utility-pro-custom",
+			"utility-pro-custom",
+			"3FB8AF",
+			"Handlee",
+			"Dancing Script",
+			"utility-pro",
+			"http://dev.samjolley.com/douladiane",
+			"<div class=\"col-md-5 col-center\">\n<div class=\"col-md-5 col-center\">\n<div class=\"col-md-5 col-center\">\n<div class=\"col-md-5 col-center\">",
+			"col-md-5",
+			"f3f6f8",
+			"http://normanbobrow.com/wp-content/uploads/2016/01/Norman-Bobrow-Responsive-Homepage-Image-400x-1382.png",
+			"http://nb.samjolley.com/wp-content/uploads/2015/10/Norman-Bobrow-Responsive-Homepage-Image-400x-1382-short.png",
+			"motherheartbirthservices.com",
+			"@normanbobrow.com",
+			"@m.normanbobrow.com",
+			"m.normanbobrow.com",
+			"http://normanbobrow.com",
+			"m.normanbobrow.com",
+			"nb.samjolley.com",
+			"rgba(58, 118, 153, 0.8)",
+			"utility_home_mission",
+			"utility-home-mission",
+			"@normanbobrow.com\"></a>",
+			"",
+			"nb.samjolley.com",
+			"normanbobrow.com",
+			"jolleydigital",
+			".mc_embed_signup",
+			"Item Detail",
+			"Open Sans",
+			"Raleway",
+			"9d2434"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 186.0
+	},
+	"output.find_results":
+	{
+		"height": 186.0
+	},
+	"output.git":
+	{
+		"height": 63.0
+	},
+	"output.sftp":
+	{
+		"height": 145.0
+	},
+	"pinned_build_system": "",
+	"project": "creative-stitches.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"browse",
+				"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1396476521/MMG Dedicated/public_html/lasouth/test/wp-content/themes/enterprise-pro/style.css"
+			],
+			[
+				"",
+				"/var/folders/p8/00l8g3z91s32d1qj3slq721h0000gn/T/sublime-sftp-browse-1396465791/MMG Dedicated/public_html/lasouth/test/wp-content/themes/enterprise-pro/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 239.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
