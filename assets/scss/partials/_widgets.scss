@@ -39,7 +39,7 @@ Widgets
 --------------------------------------------- */
 
 .home-welcome {
-	background-color: rgba(#333, 0.8);
+	background-color: rgba(#333, 0.4);
 	padding: 40px 0;
 	text-align: center;
 }
@@ -88,6 +88,7 @@ Widgets
 	text-align: center;
 	width: 100%;
 	background-color: $light-gray;
+	border: $black 5px solid;
 
 	@include media($small-screen-up) {
 		float: left;
